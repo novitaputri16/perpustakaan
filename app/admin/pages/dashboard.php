@@ -44,7 +44,7 @@
                     <div class="inner">
                         <h3><?= $row_anggota; ?></h3>
 
-                        <p>Anggota</p>
+                        <p>Petugas</p>
                     </div>
                     <div class="icon">
                         <i class="fa fa-users"></i>
